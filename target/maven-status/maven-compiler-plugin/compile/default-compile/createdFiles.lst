@@ -1,0 +1,6 @@
+com\tallertres\tallerdespliegue\models\ProyectoEntity.class
+com\tallertres\tallerdespliegue\service\IProyectoService.class
+com\tallertres\tallerdespliegue\TallerDespliegueApplication.class
+com\tallertres\tallerdespliegue\service\implement\ProyectoServiceImplement.class
+com\tallertres\tallerdespliegue\rest\ProyectoRest.class
+com\tallertres\tallerdespliegue\repository\ProyectoRepository.class
